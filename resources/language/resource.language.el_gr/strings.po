@@ -1,0 +1,275 @@
+# Kodi Media Center language file
+# Addon Name: Gismeteo
+# Addon id: weather.gismeteo
+# Addon Provider: vl.maksime
+
+msgid ""
+msgstr ""
+
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+
+# Categories
+
+msgctxt "#32101"
+msgid "Location setup"
+msgstr "Ρύθμιση τοποθεσίας"
+
+msgctxt "#32102"
+msgid "Advanced"
+msgstr "Για προχωρημένους"
+
+msgctxt "#32103"
+msgid "Expert"
+msgstr "Για ειδικούς"
+
+# Location setup
+
+msgctxt "#32110"
+msgid "Current Location"
+msgstr "Τρέχουσα τοποθεσίαα"
+
+msgctxt "#32111"
+msgid "Location 1"
+msgstr "Τοποθεσία 1"
+
+msgctxt "#32112"
+msgid "Location 2"
+msgstr "Τοποθεσία 2"
+
+msgctxt "#32113"
+msgid "Location 3"
+msgstr "Τοποθεσία 3"
+
+msgctxt "#32114"
+msgid "Location 4"
+msgstr "Τοποθεσία 4"
+
+msgctxt "#32115"
+msgid "Location 5"
+msgstr "Τοποθεσία 5"
+
+msgctxt "#32116"
+msgid "Location 1 ID"
+msgstr "ID Τοποθεσία 1"
+
+msgctxt "#32117"
+msgid "Location 2 ID"
+msgstr "ID Τοποθεσία 2"
+
+msgctxt "#32118"
+msgid "Location 3 ID"
+msgstr "ID Τοποθεσία 3"
+
+msgctxt "#32119"
+msgid "Location 4 ID"
+msgstr "ID Τοποθεσία 4"
+
+msgctxt "#32120"
+msgid "Location 5 ID"
+msgstr "ID Τοποθεσία 5"
+
+# Advanced
+
+msgctxt "#32122"
+msgid "Weekend"
+msgstr "Σαββατοκύριακο"
+
+msgctxt "#32123"
+msgid "Saturday/Sunday"
+msgstr "Σάββατο/Κυριακή"
+
+msgctxt "#32124"
+msgid "Friday/Saturday"
+msgstr "Παρασκευή/Σάββατο"
+
+msgctxt "#32125"
+msgid "Thursday/Friday"
+msgstr "Πέμπτη/Παρασκευή"
+
+msgctxt "#32130"
+msgid "Time zone"
+msgstr "Ζώνη ώρας"
+
+msgctxt "#32131"
+msgid "from system settings"
+msgstr "από τις ρυθμίσεις του συστήματος"
+
+msgctxt "#32132"
+msgid "from location"
+msgstr "από την τοποθεσία"
+
+msgctxt "#32133"
+msgid "Measure units"
+msgstr "Μονάδες μέτρησης"
+
+msgctxt "#32134"
+msgid "Pressure"
+msgstr "Πίεση"
+
+msgctxt "#32135"
+msgid "Precipitation"
+msgstr "Υετός"
+
+msgctxt "#32136"
+msgid "Clear cache"
+msgstr "Εκκάθαριση μνήμης"
+
+msgctxt "#32200"
+msgid "User interface language"
+msgstr "Γλώσσα διεπαφής"
+
+msgctxt "#32201"
+msgid "Russian"
+msgstr "Ρωσικά"
+
+msgctxt "#32202"
+msgid "Ukrainian"
+msgstr "Ουκρανικά"
+
+msgctxt "#32203"
+msgid "Lithuanian"
+msgstr "Λιθουανικά"
+
+msgctxt "#32204"
+msgid "Latvian"
+msgstr "Λετονικά"
+
+msgctxt "#32205"
+msgid "English"
+msgstr "Αγγλικά"
+
+msgctxt "#32206"
+msgid "Romanian"
+msgstr "Ρουμάνικα"
+
+msgctxt "#32207"
+msgid "German"
+msgstr "Γερμανικά"
+
+msgctxt "#32208"
+msgid "Polish"
+msgstr "Πολωνικά"
+
+msgctxt "#32220"
+msgid "Gismeteo icons"
+msgstr "Εικονίδια gismeteo"
+
+msgctxt "#32221"
+msgid "Use Gismeteo icons"
+msgstr "Κάνε χρήση εικονιδίων gismeteo"
+
+msgctxt "#32222"
+msgid "Install icon package"
+msgstr "Εγκατάσταση πακέτου εικονιδίων"
+
+msgctxt "#32223"
+msgid "Requires Kodi 16+ and skin support"
+msgstr "Απαιτεί το Kodi 16+ και υποστήριξη από το κέλυφος"
+
+msgctxt "#32299"
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgctxt "#32301"
+msgid "a/p"
+msgstr ""
+
+# Speed
+
+msgctxt "#32401"
+msgid "m/s"
+msgstr "μ/δ"
+
+msgctxt "#32402"
+msgid "km/h"
+msgstr "χμλ/ώρα"
+
+msgctxt "#32403"
+msgid "m/min"
+msgstr "μ/λεπτό"
+
+msgctxt "#32404"
+msgid "ft/h"
+msgstr "πόδια/ώρα"
+
+msgctxt "#32405"
+msgid "ft/min"
+msgstr "πόδια/λεπτό"
+
+msgctxt "#32406"
+msgid "ft/s"
+msgstr "πόδια/δευτ."
+
+msgctxt "#32407"
+msgid "knots"
+msgstr "κόμβοι"
+
+msgctxt "#32408"
+msgid "Beaufort"
+msgstr "Μποφώρ"
+
+msgctxt "#32409"
+msgid "inch/s"
+msgstr "ίντσερ/δευτ."
+
+msgctxt "#32410"
+msgid "yard/s"
+msgstr "γιάρδες/δευτ."
+
+msgctxt "#32411"
+msgid "Furlong/Fortnight"
+msgstr ""
+
+msgctxt "#32412"
+msgid "mph"
+msgstr "μαω"
+
+msgctxt "#32413"
+msgid "kts"
+msgstr "κομ"
+
+# Wind direction
+
+msgctxt "#32420"
+msgid "calm"
+msgstr "ήρεμος"
+
+# Precipitation
+
+msgctxt "#32430"
+msgid "mm"
+msgstr "χλστ."
+
+msgctxt "#32431"
+msgid "inch"
+msgstr "ίντσες"
+
+msgctxt "#32432"
+msgid "n/a"
+msgstr ""
+
+# Pressure
+
+msgctxt "#32440"
+msgid "mmHg"
+msgstr ""
+
+msgctxt "#32441"
+msgid "hPa"
+msgstr ""
+
+msgctxt "#32442"
+msgid "mbar"
+msgstr ""
+
+msgctxt "#32443"
+msgid "inHg"
+msgstr ""
+
+# Messages
+
+msgctxt "#32501"
+msgid "Connection error"
+msgstr "Σφάλμα σύνδεσης"
